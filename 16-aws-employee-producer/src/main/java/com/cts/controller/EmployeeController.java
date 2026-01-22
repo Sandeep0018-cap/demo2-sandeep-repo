@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.cts.model.Employee;
 
 @RestController
-@RequestMapping("/api/emp")
+//@RequestMapping("/api/emp")
 public class EmployeeController {
 
 	@RequestMapping("/employees")
